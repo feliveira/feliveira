@@ -1,6 +1,7 @@
 ## 💬 Olá, eu sou o Felipe 👋
 
 :computer: Em busca de uma primeira oportunidade como Desenvolvedor<br>
+:mortar_board: Cursando Análise e Desenvolvimento de Sistemas na <a href="https://www.fiap.com.br/">FIAP</a>
 :books: Atualmente estudando Java e seu Ecossistema<br>
 :round_pushpin:   São Paulo - Brasil
 
