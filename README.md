@@ -1,5 +1,14 @@
-### Hi there 👋
+## 💬 Olá, eu sou o Felipe 👋
 
+:computer: Em busca de uma primeira oportunidade como Desenvolvedor<br>
+:books: Atualmente estudando Java e seu Ecossistema<br>
+:round_pushpin:   São Paulo - Brasil
+
+### :zap:Ferramentas e Tecnologias
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" width="40px" height="40px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="40px" height="40px" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"  width="40px" height="40px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40px" height="40px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40px" height="40px" />
+
+### 📫Redes Sociais
+<a href="https://www.linkedin.com/in/feliveira8/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40px" height="40px" /></a>
 <!--
 **feliveira/feliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
